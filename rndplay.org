@@ -1,0 +1,10 @@
+# -*- mode: org; fill-column: 78; -*-
+# Time-stamp: <2021-04-21 20:03:13 krylon>
+#
+#+TAGS: optimize(o) refactor(r) bug(b) feature(f) architecture(a)
+#+TODO: TODO(t) IMPLEMENT(i) TEST(e) RESEARCH(r) | DONE(d)
+#+TODO: MEDITATE(m) PLANNING(p) | FAILED(f) CANCELLED(c) SUSPENDED(s)
+#+PRIORITIES: A G D
+
+* RndPlay
+  RndPlay plays media files in a random order, optionally in an infinite loop.
